@@ -3,3 +3,5 @@ int main(){
 printf("Hello World!");
 return 0;
 }
+// Main function is the exection part.
+// printf is used to print something.
